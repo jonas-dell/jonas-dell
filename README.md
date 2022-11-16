@@ -11,6 +11,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonas-dell&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+www.linkedin.com/in/jonas-cardoso-687843141
+
 
 <div align="center">  
 <a href="www.linkedin.com/in/jonas-cardoso-687843141" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
